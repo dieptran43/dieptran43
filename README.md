@@ -1,13 +1,7 @@
 <h1 align="left">Hi 👋, I'm DiepTran </>.</h1>
-<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--    <img align="right" alt="GIF" src="https://github.com/dieptran43/dieptran43/blob/main/developer.gif" width="550" height="410" /> -->
-
 <p align="left">   
    I'm a computer scientist with a solid background in .NET, React/Angular, and Machine Learning/Data Science. I'm a fast, curious learner who thrives on picking up new technologies and domains quickly. I actively leverage AI as an extension of my own capabilities — using it daily to accelerate coding, research, and problem-solving. I blend strong analytical thinking with hands-on experimentation to turn ideas into working solutions. Always exploring the frontier of LLM, Agent AI, MCP, and A2A to stay ahead of the curve.. I am extremely curious and apply synthesis and design thinking to theoretical and practical projects.</p>
-<h3>LEARN<br>
-CODE<br>
-REPEAT</h3><br>
+<h3>Learn => Question => Practical => Re-Question </h3><br/>
 
 - 🐱‍👤 I’m currently working on **.Net, React JS, Angular, Machine learning, Deeplearning, Data Science, JavaScript, Data Structure**
 
@@ -46,7 +40,6 @@ REPEAT</h3><br>
    <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" hspace="10"/> </a>
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" hspace="10"/> </a> 
 </p>
-
 
 <!--
 **dieptran43/dieptran43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
